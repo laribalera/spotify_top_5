@@ -5,7 +5,7 @@ Este repositório é uma adaptação em Python do código fornecido pelo [Spotif
 ## 📑 Pré-requisitos
 - Requests
 - Spotipy
-- Aplicação criada no site [Spotify for Developers > Dashboard] (https://developer.spotify.com/)
+- Aplicação criada no site [Spotify for Developers > Dashboard](https://developer.spotify.com/)
 
 ## 🖥️ Instalação
 
