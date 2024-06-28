@@ -19,7 +19,12 @@ Este repositório é uma adaptação em Python do código fornecido pelo [Spotif
 
 Faz um request GET no endpoint `v1/me/top/tracks?time_range=long_term&limit=5` e itera sobre a resposta retornando o nome do artista e a música. É possivel alterar o limit para retornar mais músicas e também o range de tempo.
 
+## 🆗 Atualizações
+
+- [x] Criar front end 
+
 ## 🛠️ TO-DO
 
-- [ ] Criar front end 
 - [ ] Adicionar opções de configuração para a chamada (mudar range e limit)
+- [ ] Melhorar template
+- [ ] Configurar autenticação

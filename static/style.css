@@ -3,3 +3,61 @@
 body{
     background-color: #000;
 }
+
+h1{
+    font-family: 'Permanent Marker';
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+    margin: 5%;
+    text-shadow: 5px 5px #CBF55C;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(24, 24, 24);
+}
+
+.main-div{
+    background-color: #fff;
+    padding: 5%;
+    border-radius: 50px;
+}
+
+.track-list {
+    list-style-type: decimal;
+    list-style-position: inside;
+    padding-left: 0;
+    
+}
+
+.track-list li {
+    font-size: 24px;
+    margin-bottom: 10px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.track-list li::marker {
+    font-size: 40px;
+    color: #CBF55C;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+.musica {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.artista {
+    display: block;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin: 2%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+footer a{
+    color: #CBF55C;
+}
