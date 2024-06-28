@@ -4,7 +4,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from credentials import Credentials
 
 
-token = 'BQCXgW2fGrfxIsaQ0RaGXwbznT2F60q5dUfhYbC_kOeJ1_hdTvrHgWcbFsk0AT4Irg6x2Dpc71s7YLSprokNddtl7EcWbzUtWY-yqSYz-GbW5z-WBogcU9k82k7jzBpL0NTO5OHlBdwrdGz48v2-IGubDtKDKY5sN0G4Z9l9GQjlrUcbdD5G62s2Tx97WUCOS6KIhBGw-spaUUGrvkLbJOelt5STzxnYUn6N6NCZHpv0cuboumvV9Nvky2M6U7OBWUSkD0MW'
+token = ''
 
 spotify_api = Credentials(token)
 
